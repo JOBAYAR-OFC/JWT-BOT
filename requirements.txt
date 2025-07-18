@@ -1,0 +1,5 @@
+python-telegram-bot==20.6
+requests==2.31.0
+aiohttp==3.9.1
+asyncio==3.4.3
+python-dotenv==1.0.0
